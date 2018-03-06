@@ -1,0 +1,13 @@
+{
+  "name": "momentobot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@bitbucket.org:anykey84/momentobot.git",
+  "author": "Rustam Kalimulin <kalimulin-ru@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "mssql": "^4.1.0",
+    "systeminformation": "^3.37.4",
+    "telegraf": "^3.19.0"
+  }
+}
